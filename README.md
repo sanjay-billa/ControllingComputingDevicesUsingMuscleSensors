@@ -1,5 +1,6 @@
 # Controlling_computing_devices_using_muscle_sensors
 The main idea of this project is to perform actions using EMG sensors that are connected to micro controllers
+old repo : https://github.com/Billasanjay1999/Controlling_computing_devices_using_muscle_sensors
 
 ## Softwares needed
 [Arduino IDE](https://www.arduino.cc/en/software) -> Import the code that is in EMG directory <br />
